@@ -1,4 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋-->
+![Sonar Sonic's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonarSonic&include_all_commits=true&show_icons=true&hide_title=true)
+
 
 <!--
 **SonarSonic/SonarSonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
